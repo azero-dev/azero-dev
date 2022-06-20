@@ -1,3 +1,3 @@
 👋
 
-// To get in touch you can send my an email or a message on my website.
+// To get in touch you can send me an email or message me on my website.
